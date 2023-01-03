@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653808245 source:c:\users\user\documents\hw_8-c109118115\ex10-4.cpp
+	<iostream>
+	<cstdlib>
+	"myint.hpp"
+
+1653810882 c:\users\user\documents\hw_8-c109118115\myint.hpp
+
+1653810811 source:c:\users\user\documents\hw_8-c109118115\myint.cpp
+	"myint.hpp"
+
