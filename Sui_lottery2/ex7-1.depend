@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1651821294 source:c:\users\user\documents\ex7-1\ex7-1.cpp
+	<iostream>
+	<cstdlib>
+	<ctype.h>
+	<conio.h>
+	"lottery.hpp"
+
+1651821306 c:\users\user\documents\ex7-1\lottery.hpp
+	<cstdlib>
+
+1651821436 source:c:\users\user\documents\ex7-1\lottery.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"Lottery.hpp"
+
+1651821753 source:c:\users\user\documents\ex7-1\bubblesort.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"bubblesort.hpp"
+
+1651821728 c:\users\user\documents\ex7-1\bubblesort.hpp
+	<cstdlib>
+	"lottery.hpp"
+
