@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1656067900 source:c:\users\user\documents\110-2-ccpp_final_c109118115\blackjack.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<cstdlib>
+	"Counting.hpp"
+	"Cards.hpp"
+	"Display.hpp"
+	<string>
+
+1656067208 c:\users\user\documents\110-2-ccpp_final_c109118115\cards.hpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<cstdlib>
+
+1656067950 c:\users\user\documents\110-2-ccpp_final_c109118115\counting.hpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<cstdlib>
+	"Cards.hpp"
+
+1656067341 c:\users\user\documents\110-2-ccpp_final_c109118115\display.hpp
+	<string>
+	"Counting.hpp"
+
+1656067855 source:c:\users\user\documents\110-2-ccpp_final_c109118115\cards.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Cards.hpp"
+
+1656067371 source:c:\users\user\documents\110-2-ccpp_final_c109118115\display.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Display.hpp"
+	"Counting.hpp"
+
+1656068009 source:c:\users\user\documents\110-2-ccpp_final_c109118115\counting.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<cstdlib>
+	"Cards.hpp"
+	"Counting.hpp"
+
