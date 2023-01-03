@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1654844181 source:c:\users\user\documents\ch11\stack.cpp
+	"stack.hpp"
+
+1654844218 c:\users\user\documents\ch11\stack.hpp
+
+1654844073 c:\users\user\documents\ch11\stack.h
+
+1654844181 c:\users\user\documents\ch11\stack.cpp
+	"stack.hpp"
+
+1654844183 source:c:\users\user\documents\ch11\ex11-2.cpp
+	<iostream>
+	"stack.cpp"
+
